@@ -1,6 +1,6 @@
 # node-red
 
-Files for the user-interface / electronics of the motorised Leica system.
+Files for the user-interface / electronics of the motorised system.
 
 **node-red-flow.json** gives the entire 'flow' json for the user interface. Once Node-RED (https://nodered.org/) is installed,
 the flow can be loaded by selecting ‘import’ from the menu, and providing this json file. 
