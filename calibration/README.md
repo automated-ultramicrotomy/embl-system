@@ -1,6 +1,6 @@
 # calibration
 
-Files for the calibration setup for the motorised Leica UC7.
+Files for the calibration setup for the EMBL motorised system, built on a Leica UC7 ultramicrotome.
 
 Overview diagram in **BG-YS-Segmentbogen.pdf** - note that these pieces are assembled in different configurations to 
 calibrate the knife tilt, sample rotation and sample tilt (see images in the corresponding folders). This diagram shows the 
