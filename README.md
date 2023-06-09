@@ -2,8 +2,7 @@
 
 Files for the motorised system from EMBL, built on a Leica UC7 ultramicrotome.
 
+- **CAD Parts** - CAD models of the main parts
+- **Code** - node-red flow for user interface + image
+- **Images**  - diagrams / images of the system and subsystems
 - **parts_list.pdf** - list of the main parts for the motorised system
-- **knife-tilt** - diagrams / images of the knife + motor
-- **sample-tilt-rotation**  - diagrams / images of the arc + motors
-- **node-red** - node-red flow for user interface + images
-- **calibration** - diagrams / images of the calibration setup
